@@ -36,10 +36,11 @@ Optional code sections for using pre-trained embeddings (GloVe) and for generati
 
 Below I give:
 
-(A) the EDA summary I produced,
+      (A) the EDA summary I produced,
+      
+      (B) the runnable Keras notebook script (paste into Colab and run),
+      
+      (C) a results table template and how to fill it,
+      
+      (D) short answers to the management problem and generative model idea.
 
-(B) the runnable Keras notebook script (paste into Colab and run),
-
-(C) a results table template and how to fill it,
-
-(D) short answers to the management problem and generative model idea.
